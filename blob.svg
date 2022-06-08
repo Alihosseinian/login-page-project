@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 500" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <g transform="translate(118, 147)">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color: rgb(217, 189, 50);"></stop>
+        <stop offset="100%" style="stop-color: rgb(249, 237, 50);"></stop>
+      </linearGradient>
+    </defs>
+    <path class="blob" d="M426.5,275.5Q382,301,376.5,330.5Q371,360,346,377Q321,394,293,402Q265,410,226.5,438Q188,466,157.5,439.5Q127,413,128.5,368.5Q130,324,131.5,298Q133,272,108.5,245.5Q84,219,115.5,202.5Q147,186,123,118.5Q99,51,154,78.5Q209,106,240.5,60Q272,14,297.5,59Q323,104,377,94.5Q431,85,395,146.5Q359,208,415,229Q471,250,426.5,275.5Z" fill="url(#gradient)"></path>
+  </g>
+  <g transform="translate(-237, -156)">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color: rgb(217, 189, 50);"></stop>
+        <stop offset="100%" style="stop-color: rgb(249, 237, 50);"></stop>
+      </linearGradient>
+    </defs>
+    <path class="blob" d="M426.5,275.5Q382,301,376.5,330.5Q371,360,346,377Q321,394,293,402Q265,410,226.5,438Q188,466,157.5,439.5Q127,413,128.5,368.5Q130,324,131.5,298Q133,272,108.5,245.5Q84,219,115.5,202.5Q147,186,123,118.5Q99,51,154,78.5Q209,106,240.5,60Q272,14,297.5,59Q323,104,377,94.5Q431,85,395,146.5Q359,208,415,229Q471,250,426.5,275.5Z" fill="url(#gradient)"></path>
+  </g>
+  <g transform="translate(281, -226)">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color: rgb(217, 189, 50);"></stop>
+        <stop offset="100%" style="stop-color: rgb(249, 237, 50);"></stop>
+      </linearGradient>
+    </defs>
+    <path class="blob" d="M426.5,275.5Q382,301,376.5,330.5Q371,360,346,377Q321,394,293,402Q265,410,226.5,438Q188,466,157.5,439.5Q127,413,128.5,368.5Q130,324,131.5,298Q133,272,108.5,245.5Q84,219,115.5,202.5Q147,186,123,118.5Q99,51,154,78.5Q209,106,240.5,60Q272,14,297.5,59Q323,104,377,94.5Q431,85,395,146.5Q359,208,415,229Q471,250,426.5,275.5Z" fill="url(#gradient)"></path>
+  </g>
+</svg>
